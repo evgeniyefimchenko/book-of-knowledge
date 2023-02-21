@@ -1,3 +1,6 @@
+<?php
+ if (!defined('SITE_HASH')) die;
+?>
 	<div class="row" id="navigations">
 		<div class="col">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -12,10 +15,10 @@
 					  <a class="nav-link" data-bs-toggle="modal" data-bs-target="#login_form" href="#">Авторизация</a>
 					</li>
 					<li class="nav-item dropdown">
-					  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+					  <a  class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">
 						Категории
 					  </a>					  					  
-						<?=get_menu_catalogs()?>
+						<?=print_general_menu()?>
 					</li>
 				  </ul>
 				  <form class="d-flex">
@@ -27,7 +30,6 @@
 			</nav>	
 		</div>
 	</div>
-	<?/*='<pre>' . var_export(get_tree_categories(), true) . '</pre>'*/?>	
 	<div class="modal fade" id="login_form" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
 	  <div class="modal-dialog">
 		<div class="modal-content">

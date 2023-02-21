@@ -1,3 +1,6 @@
+<?php
+ if (!defined('SITE_HASH')) die;
+?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -14,7 +17,7 @@
         <meta name="page-type" content="Текст" />
 		<meta name="publisher-type" content="Private" />
 		<meta property="og:type" content="website" />
-		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+		<link href="//<?=APP_URL?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 		<link href="//<?=APP_URL?>assets/css/styles.css" rel="stylesheet" >
 		<title><?=APP_NAME?></title>

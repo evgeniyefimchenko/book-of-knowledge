@@ -1,0 +1,5 @@
+{{Протокол}}
+
+<p><b>Протоко́л</b> (<a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">πρωτόκολλον</span></span>; от <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">πρώτος</span></span> «первый» + <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">κόλλα</span></span> «клей») изначально&nbsp;— документ, фиксирующий какое-либо событие, факт или договорённость. В дальнейшем семантика этого слова значительно расширилась.
+Документ, фиксирующий порядок: проведения (лечения, дипломатической встречи, собрания и пр.); действий для достижения цели (прихода к власти и др.); взаимодействия различных структур, субъектов, устройств и т.п..
+</p>
